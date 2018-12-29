@@ -6,6 +6,7 @@ A self-taught data scientist curriculum.
 
 ### 1.1 Math
 - [Ongoing] [수악중독 선형대수](https://www.youtube.com/channel/UCWhUI1yJp6O2Rwial6VvQeQ)
+- [Plan] [3BLUE1BROWN: Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Plan] [edwith: 인공지능을 위한 선형대수(주재걸 교수)](https://www.edwith.org/linearalgebra4ai)
 - [Plan] [Khan Academy: Linear Algebra](https://ko.khanacademy.org/math/linear-algebra)
 
@@ -43,13 +44,15 @@ A self-taught data scientist curriculum.
 ## 3. Google Analytics
 - [Plan] [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
 - [Plan] [구글 애널리틱스 완벽 가이드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125475962)
+- [Plan] [edwith: 구글 애널리틱스 시작하기](https://www.edwith.org/pinetreeopenclass-ga-start/joinLectures/11088)
+- [Plan] [edwith: 구글 애드워즈(GDN) 리마케팅 전략](https://www.edwith.org/google-adwords/joinLectures/11163)
 - [Plan] GAIQ
 
 ---
 
 ## 4. Data Visualization
 - [Ongoing] [Udemy: Hands-On Tableau Training For Data Science](https://www.udemy.com/tableau10/)
-- [Planned] [Udemy: Master Tableau in Data Science](https://www.udemy.com/tableau10-advanced/)
+- [Plan] [Udemy: Master Tableau in Data Science](https://www.udemy.com/tableau10-advanced/)
 
 ---
 
