@@ -1,7 +1,7 @@
 ﻿# 수악중독 선형대수(Linear Algebra)
 
 - Instructor : 수악중독
-- Progress : Ongoing
+- Progress : Completed
 - [Course](https://www.youtube.com/channel/UCWhUI1yJp6O2Rwial6VvQeQ/videos)
 
 ## Curriculum
