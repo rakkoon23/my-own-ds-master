@@ -1,5 +1,8 @@
 ﻿# Intro to SQL for Data Science
 
+
+![Intro to SQL for Data Science](Intro to SQL for Data Science.jpg)
+
 - Instructor : Datacamp
 - Progress : Completed
 - [Course](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
