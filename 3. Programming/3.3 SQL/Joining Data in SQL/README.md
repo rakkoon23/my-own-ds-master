@@ -1,4 +1,5 @@
 ﻿# Joining Data in SQL
+![Certificate](https://github.com/rakkoon23/my-own-ds-master/blob/master/3.%20Programming/3.3%20SQL/Joining%20Data%20in%20SQL/Certificate/Joining%20Data%20in%20SQL.jpg)
 
 - Instructor : [Chester Ismay](https://www.datacamp.com/instructors/chester), Senior Curriculum Lead at DataCamp
 - Progress : Completed
