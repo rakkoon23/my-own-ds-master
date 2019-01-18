@@ -36,7 +36,7 @@ A self-taught data scientist curriculum.
 ### 3.3 SQL
 - [Completed] [생활코딩-MySQL](https://www.youtube.com/watch?v=h_XDmyz--0w&list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW)
 - [Completed] [DataCamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
-- [Completed] [DataCamp: Joining Data in SQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+- [Completed] [DataCamp: Joining Data in SQL](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.3%20SQL/Joining%20Data%20in%20SQL)
 - [Plan] [w3school SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 - [Plan] [모두의 SQL](https://thebook.io/006977/)
 - [Plan] [Khan Academy: SQL](https://ko.khanacademy.org/computing/computer-programming/sql)
