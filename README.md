@@ -21,7 +21,6 @@ A self-taught data scientist curriculum.
 - [Ongoing] [University of Washington(Coursera): Machine Learning Specialization](https://github.com/rakkoon23/my-own-ds-master/tree/master/2.%20Machine%20Learning_and_Deep%20Learning/%5BCoursera%5D%20University%20of%20Washington_Machine%20Learning%20Specialization)
 - [Ongoing] [가볍게 시작하는 통계학습(An Introduction to Statistical Learning)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81859233)
 - [Ongoing] [모두의 딥러닝(김성훈 교수)](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-- [Plan] [Datacamp: Data scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 ## 3. Programming / Computer Science
 
@@ -31,6 +30,7 @@ A self-taught data scientist curriculum.
 ### 3.2 Python
 - [Completed] [생활코딩-Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9_Python)
 - [Completed] [SNU-FIRA: 파이썬을 이용한 빅데이터 분석 개론(박진수 교수)](http://bdi.snu.ac.kr/academy/?page_id=1413)
+- [Completed] [Introduction to Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Introduction%20to%20Python)
 - [Ongoing] [DataCamp: Preprocessing for Machine Learning in Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Preprocessing%20for%20Machine%20Learning%20in%20Python)
 
 ### 3.3 SQL
@@ -59,7 +59,7 @@ A self-taught data scientist curriculum.
 - [Plan] Coursera Tableau
 
 ## 6. Business Analytics
-- [Plan] [edwith: 디지털마케팅 부스트코스](https://www.edwith.org/boostcourse-digitalmarketing)
+- [Ongoing] [edwith: 디지털마케팅 부스트코스](https://www.edwith.org/boostcourse-digitalmarketing)
 
 ## 7. Projects
 - [Completed] [KKBox Music Recommendation](https://github.com/rakkoon23/SNU_FIRA_BA_2018/tree/master/Q3/%EA%B3%A0%EA%B8%89%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/Team%20Project)
