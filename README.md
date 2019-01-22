@@ -32,6 +32,7 @@ A self-taught data scientist curriculum.
 - [Completed] [SNU-FIRA: 파이썬을 이용한 빅데이터 분석 개론(박진수 교수)](http://bdi.snu.ac.kr/academy/?page_id=1413)
 - [Completed] [DataCamp: Introduction to Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Introduction%20to%20Python)
 - [Completed] [DataCamp: Intermediate Python for Data Science](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Intermediate%20Python%20for%20Data%20Science)
+- [Completed] [DataCamp: Python Data Science Toolbox (Part 1)](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/03_Python%20Data%20Science%20Toolbox%20(Part%201))
 - [Ongoing] [DataCamp: Preprocessing for Machine Learning in Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Preprocessing%20for%20Machine%20Learning%20in%20Python)
 
 ### 3.3 SQL
