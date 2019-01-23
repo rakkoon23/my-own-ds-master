@@ -33,6 +33,7 @@ A self-taught data scientist curriculum.
 - [Completed] [DataCamp: Introduction to Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Introduction%20to%20Python)
 - [Completed] [DataCamp: Intermediate Python for Data Science](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Intermediate%20Python%20for%20Data%20Science)
 - [Completed] [DataCamp: Python Data Science Toolbox (Part 1)](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/03_Python%20Data%20Science%20Toolbox%20(Part%201))
+- [Completed] [DataCamp: Python Data Science Toolbox (Part 2)](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/04_Python%20Data%20Science%20Toolbox%20(Part%202))
 - [Ongoing] [DataCamp: Preprocessing for Machine Learning in Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Preprocessing%20for%20Machine%20Learning%20in%20Python)
 
 ### 3.3 SQL
