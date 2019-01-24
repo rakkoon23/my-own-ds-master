@@ -1,7 +1,7 @@
 ﻿# Intro to SQL for Data Science
 
 
-![Intro to SQL for Data Science](Intro to SQL for Data Science.jpg)
+![Intro to SQL for Data Science](https://github.com/rakkoon23/my-own-ds-master/blob/master/3.%20Programming/3.3%20SQL/Intro%20to%20SQL%20for%20Data%20Science/Certificate/Intro%20to%20SQL%20for%20Data%20Science.jpg)
 
 - Instructor : Datacamp
 - Progress : Completed
