@@ -4,9 +4,10 @@ A self-taught data scientist curriculum.
 ---
 ## 1. Math / Statistics
 
-### 1.1 Math
+### 1.1 Math(Calculus & Linear Algebra)
 - [Completed] [수악중독 선형대수](https://github.com/rakkoon23/my-own-ds-master/tree/master/1.%20Math_and_Statistics/1.1%20Math/%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85_%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
 - [Ongoing] [Khan Academy: Linear Algebra](https://ko.khanacademy.org/math/linear-algebra)
+- [Ongoing] [SNUON: 수학 및 연습 1](https://github.com/rakkoon23/my-own-ds-master/tree/master/1.%20Math_and_Statistics/1.1%20Math/01_Calculus/01_%EC%88%98%ED%95%99%20%EB%B0%8F%20%EC%97%B0%EC%8A%B51)
 - [Plan] [3BLUE1BROWN: Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Plan] [edwith: 인공지능을 위한 선형대수(주재걸 교수)](https://www.edwith.org/linearalgebra4ai)
 
