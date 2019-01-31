@@ -5,9 +5,10 @@ A self-taught data scientist curriculum.
 ## 1. Math / Statistics
 
 ### 1.1 Math(Calculus & Linear Algebra)
-- [Completed] [수악중독 선형대수](https://github.com/rakkoon23/my-own-ds-master/tree/master/1.%20Math_and_Statistics/1.1%20Math/%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85_%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
+- [Completed] [수악중독: 선형대수](https://github.com/rakkoon23/my-own-ds-master/tree/master/1.%20Math_and_Statistics/1.1%20Math/%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85_%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98)
 - [Ongoing] [Khan Academy: Linear Algebra](https://ko.khanacademy.org/math/linear-algebra)
 - [Ongoing] [SNUON: 수학 및 연습 1](https://github.com/rakkoon23/my-own-ds-master/tree/master/1.%20Math_and_Statistics/1.1%20Math/01_Calculus/01_%EC%88%98%ED%95%99%20%EB%B0%8F%20%EC%97%B0%EC%8A%B51)
+- [Ongoing] [수악중독: 미적분1, 2](https://github.com/rakkoon23/my-own-ds-master/tree/master/1.%20Math_and_Statistics/1.1%20Math/01_Calculus/02_%5B%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85%5D%20%EB%AF%B8%EC%A0%81%EB%B6%841)
 - [Plan] [3BLUE1BROWN: Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Plan] [edwith: 인공지능을 위한 선형대수(주재걸 교수)](https://www.edwith.org/linearalgebra4ai)
 
@@ -31,8 +32,8 @@ A self-taught data scientist curriculum.
 ### 3.2 Python
 - [Completed] [생활코딩: Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9_Python)
 - [Completed] [SNU-FIRA: 파이썬을 이용한 빅데이터 분석 개론(박진수 교수)](http://bdi.snu.ac.kr/academy/?page_id=1413)
-- [Completed] [DataCamp: Introduction to Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Introduction%20to%20Python)
-- [Completed] [DataCamp: Intermediate Python for Data Science](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/Intermediate%20Python%20for%20Data%20Science)
+- [Completed] [DataCamp: Introduction to Python](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/01_Introduction%20to%20Python)
+- [Completed] [DataCamp: Intermediate Python for Data Science](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/02_Intermediate%20Python%20for%20Data%20Science)
 - [Completed] [DataCamp: Python Data Science Toolbox (Part 1)](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/03_Python%20Data%20Science%20Toolbox%20(Part%201))
 - [Completed] [DataCamp: Python Data Science Toolbox (Part 2)](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/04_Python%20Data%20Science%20Toolbox%20(Part%202))
 - [Ongoing] [DataCamp: Importing Data in Python (Part 1)](https://github.com/rakkoon23/my-own-ds-master/tree/master/3.%20Programming/3.2%20Python/Datacamp/05_Importing%20Data%20in%20Python%20(Part%201))
