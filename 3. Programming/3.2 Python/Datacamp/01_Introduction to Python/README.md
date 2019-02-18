@@ -1,6 +1,6 @@
 ﻿# [DataCamp] Introduction to Python
 
-![Certificate](https://github.com/rakkoon23/my-own-ds-master/blob/master/3.%20Programming/3.2%20Python/Datacamp/Introduction%20to%20Python/Certificate/Introduction%20to%20Python.jpg)
+![Certificate](https://github.com/rakkoon23/my-own-ds-master/blob/master/3.%20Programming/3.2%20Python/Datacamp/01_Introduction%20to%20Python/Certificate/Introduction%20to%20Python.jpg)
 
 - Instructor : [Filip Schouwenaars](https://www.datacamp.com/instructors/filipsch), Data Science Instructor at DataCamp
 - Progress : Completed
